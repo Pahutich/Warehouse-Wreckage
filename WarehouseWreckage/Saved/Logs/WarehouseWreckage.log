@@ -1698,3 +1698,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.21-11.11.22:065][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 632 ms)
 [2023.08.21-11.11.22:071][692]AssetCheck: New page: Asset Save: Main
 [2023.08.21-11.11.22:071][692]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.08.21-11.17.47:353][910]BlueprintLog: New page: Collapse to Function
+[2023.08.21-11.21.39:758][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.08.21-11.21.39:763][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.08.21-11.21.39:789][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2023.08.21-11.21.39:789][383]LogSavePackage: Moving '../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Saved/Main_Auto2AD256E402BF44093AF50A2397D6ECD26.tmp' to '../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap'
+[2023.08.21-11.21.39:792][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.095
+[2023.08.21-11.21.39:792][383]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2023.08.21-11.23.26:583][689]BlueprintLog: New page: Collapse to Function
+[2023.08.21-11.23.50:313][511]BlueprintLog: New page: Collapse to Function
+[2023.08.21-11.24.49:676][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.21-11.24.49:809][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-11.24.49:856][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.08.21-11.24.49:881][874]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.21-11.24.49:881][874]LogSavePackage: Moving '../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Saved/Main332EE8C878F049BFBC416A5B824463E9.tmp' to '../../../../Projects/Warehouse-Wreckage/WarehouseWreckage/Content/Main.umap'
+[2023.08.21-11.24.49:924][874]LogFileHelpers: Saving map 'Main' took 0.116
+[2023.08.21-11.24.49:975][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 931 ms)
+[2023.08.21-11.24.49:981][874]AssetCheck: New page: Asset Save: Main
+[2023.08.21-11.24.49:981][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
